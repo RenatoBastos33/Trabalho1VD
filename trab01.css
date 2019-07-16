@@ -1,0 +1,28 @@
+#mainDiv{
+    font-family: serif;
+    font-size: 12px;
+    color: darkgrey;
+}
+
+.enter {
+    stroke-width: 2px;
+    stroke: blue;
+    fill: beige;
+}
+
+.update {
+    stroke-width: 2px;
+    stroke: green;
+    fill: beige;
+}
+
+.exit {
+    stroke-width: 2px;
+    stroke: red;
+    fill: beige;
+}
+
+.zoom{
+    fill: none;
+    pointer-events: all;
+}
